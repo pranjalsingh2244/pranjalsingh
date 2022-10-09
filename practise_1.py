@@ -5,5 +5,5 @@
 #print the sum
 x = input("enter first number : ")
 y = input("enter second number 2: ")
-sum = int(firstnumber)+int(secondnumber)
+sum = int(x)+int(y)
 print("the answer is :",sum)
