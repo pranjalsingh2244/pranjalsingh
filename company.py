@@ -17,4 +17,4 @@ time =int (input("how much time have you spend on this company"))
 if time<10:
     print("you are eligible for 10%of the bonus and your net amount will be" ,salary+(10/100)*salary)
 elif time>6 and time <10:
-    print(if you have spent )
+    print( you have spent )
